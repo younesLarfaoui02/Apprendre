@@ -9,7 +9,7 @@
     }],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "false"
+        "APP_DEBUG": "false" ,
         "APP_URL": "https://OFPPTOWFS203.younes",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
